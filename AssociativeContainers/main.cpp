@@ -97,5 +97,4 @@ void main()
 			cout << ";\n";
 		}
 	
-
 }
